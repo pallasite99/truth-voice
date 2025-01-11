@@ -1,5 +1,5 @@
 # TruthVoice
-An initiative for ensuring every voice is heard - To create a digital hub for raising awareness, driving engagement, and mobilizing action around social justice causes in the USA.
+An initiative for ensuring every voice is heard
 ## **Objective**
 To create a modern, interactive, and visually appealing website that raises awareness, promotes action, and fosters community engagement around social justice causes.
 
